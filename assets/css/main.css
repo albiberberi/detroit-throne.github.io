@@ -892,6 +892,10 @@ section,
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
+
+.about{
+  background-color: #8babb3;
+}
 .about .content h3 {
   font-size: 1.75rem;
   font-weight: 700;
@@ -1108,6 +1112,11 @@ section,
 /*--------------------------------------------------------------
 # Portfolio Section
 --------------------------------------------------------------*/
+
+.portfolio {
+ background-color: #8babb3;
+}
+
 .portfolio .portfolio-filters {
   padding: 0;
   margin: 0 auto 20px auto;
